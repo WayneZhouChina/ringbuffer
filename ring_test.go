@@ -20,3 +20,10 @@ func TestGetEqualSet(t *testing.T) {
 		}
 	}
 }
+
+func TestLen(t *testing.T) {
+	r := New(5)
+	if r.Len() != r.Size {
+		t.Errorf("Size error")
+	}
+}
