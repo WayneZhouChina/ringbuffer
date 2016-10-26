@@ -2,7 +2,7 @@
 
 ## Description
 
-	Ring Buffer, implementation of list, have not solved underflow or overflow
+	Implementation of Ring Buffer by Array, it is just simple example
 
 ## TODO
 
