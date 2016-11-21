@@ -2,7 +2,7 @@
 
 ## Description
 
-	Implementation of Ring Buffer by Array, it is just simple example
+	It's just a practice. Implementation of Ring Buffer by Array, it is just simple example
 
 ## TODO
 
